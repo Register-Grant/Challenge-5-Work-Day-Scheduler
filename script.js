@@ -29,5 +29,13 @@ saveBtn.on("click", function(event) {
 });
 
 $("#9 textarea").val(JSON.parse(localStorage.getItem("9")));
+$("#10 textarea").val(JSON.parse(localStorage.getItem("10")));
+$("#11 textarea").val(JSON.parse(localStorage.getItem("11")));
+$("#12 textarea").val(JSON.parse(localStorage.getItem("12")));
+$("#13 textarea").val(JSON.parse(localStorage.getItem("13")));
+$("#14 textarea").val(JSON.parse(localStorage.getItem("14")));
+$("#15 textarea").val(JSON.parse(localStorage.getItem("15")));
+$("#16 textarea").val(JSON.parse(localStorage.getItem("16")));
+$("#17 textarea").val(JSON.parse(localStorage.getItem("17")));
 
-})
+});
