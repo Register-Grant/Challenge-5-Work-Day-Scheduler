@@ -33,4 +33,4 @@ THEN the saved events persist
 ## Assets
 The following image demonstrates, sort of, the web application's appearance and functionality:
 
-![This is what one of the webpages currently looks like.](./assets/images/register-grant.github.io_Challenge-5-Work-Day-Scheduler_.PNG)
+![This is what the webpage currently looks like.](./assets/images/register-grant.github.io_Challenge-5-Work-Day-Scheduler_.png)
